@@ -48,4 +48,24 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Ministry of Industry and Information Technology of China"
+  organization_url = "https://www.whu.edu.cn/"
+  title = "Second price in China Software Cup University Software Design Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-19"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Hubei Communist Youth League Committee"
+  organization_url = "https://www.whu.edu.cn/"
+  title = "First price in The 12th Hubei Provincial Challenge Cup University Extracurricular Academic and Scientific Works Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-26"
+  date_end = ""
+  description = ""
+
 +++

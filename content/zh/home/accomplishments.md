@@ -48,4 +48,23 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "工信部"
+  organization_url = "https://www.whu.edu.cn/"
+  title = "中国软件杯大学生软件设计大赛二等奖"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-19"
+  date_end = ""
+  description = "GIS赛道第二名"
+
+[[item]]
+  organization = "湖北省共青团委"
+  organization_url = "https://www.whu.edu.cn/"
+  title = "第十二届湖北省挑战杯大学生课外学术科技作品竞赛一等奖"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-26"
+  date_end = ""
+  description = ""
 +++
